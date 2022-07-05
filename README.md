@@ -24,7 +24,7 @@ I'm a Mechatronics Engineer, also working on frontend-backend development. I am 
 ### Tools 🛠️
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) |
-|---|---|---|---|---|---|---|---|---|
+|---|---|
 
 ### Github Stats
 
