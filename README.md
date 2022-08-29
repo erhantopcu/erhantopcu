@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I'm a Mechatronics Engineer, also working on frontend-backend development. I am a fast learner, hardworking and adaptable to teamwork. Since my previous work was focused on design and computation, I believe that I will achieve good works on the front and back sides of websites and applications in the future.
+I'm a Mechatronics Engineer, also working on frontend-backend development. I am eager to learn, hardworking and adaptable to teamwork. Since my previous work was focused on design and computation, I believe that I will achieve good works on the front and back sides of websites and applications in the future.
 
 </p>
 </div>
